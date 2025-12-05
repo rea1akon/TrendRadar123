@@ -9,7 +9,6 @@ crawler:
   enable_crawler: true 
   use_proxy: false 
   default_proxy: "http://127.0.0.1:10086"
- current（当前榜单模式）
 report:
   mode: "current" # 可选: "daily"|"incremental"|"current"
   rank_threshold: 5 # 排名高亮阈值
